@@ -115,7 +115,7 @@ export default function App() {
     <div className="focusly-root">
       <header className="hero">
         <div className="logo">FOCUSLY</div>
-        <h1 className="slogan">내 안의 몰입을 깨우는 시간, FOCUSLY</h1>
+        <h1 className="slogan">내 안의 몰입을 깨우는 시간, FOCUSLY YYYY </h1>
         <p className="sub">폰을 잠그고, 습관을 만들고, 몰입을 기르세요.</p>
       </header>
 
